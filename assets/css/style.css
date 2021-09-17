@@ -232,24 +232,54 @@ footer a {
     text-align: right;
 }
 
-  
-  
-  
-  
-  
+/* REACH OUT STYLES START */
+.contact {
+    text-align: center;
+    background-color: #024e76;
+    color: #fce138; 
+}
 
+.reach-out {
+    color:#fce138;
+    margin-top: 20px;
+}
   
+.contact-info iframe {
+    width: 400px;
+    height:400px;
+}
   
-  
-  
-  
-  
+.col-1 {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 10px 0 40px 40px;
+    color: white;
+  } 
+ 
+  .col-2 {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    line-height: 1.7 ;
+    margin: 10px 0 40 40px;
+    padding-left: 5%;
+    color: white;
+  } 
 
+.yellow {
+    color:#fce138;
+}
   
-  
-  
-  
-  
+.yellow span {
+    font-size: 28pt;
+}
+address {
+    font-style: normal;
+    padding-top: 5%;
+}
 
   
   
