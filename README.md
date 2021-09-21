@@ -12,3 +12,6 @@ https://flowingcityloy.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by [Lydia Loy]
+
+### Run Buddy Inc.
+
