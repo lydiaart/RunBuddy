@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://flowingcityloy.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [Lydia Loy]
+Made with ❤️ by Lydia L
 
 ### ©️2019 Run Buddy, Inc 
